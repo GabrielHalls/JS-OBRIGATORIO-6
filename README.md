@@ -1,1 +1,1 @@
-# JS-OBRIGATORIO-6
+# 3D-Cube-Image-Slider
